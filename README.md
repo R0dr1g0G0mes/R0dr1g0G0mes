@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Rodrigo Gomes, and I'm a 22-year-old student at the University of Beira Interior. I began my programming journey in 2020 while pursuing a degree in Web Informatics. Since then, I have continuously honed my skills in Python, HTML, CSS, SQL, and various other tools.
+
+The University of Beira Interior has provided me with a diverse and stimulating environment that has fueled my passion for learning and personal growth. I am committed to quickly mastering new concepts in the field of technology and have recently developed a keen interest in Salesforce.
+
+📫 How to reach me: rsgomes1702@gmail.com
+⚡ Looking for first job
