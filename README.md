@@ -19,5 +19,5 @@ My name is Rodrigo Gomes, and I'm a 22-year-old student at the University of Bei
 
 The University of Beira Interior has provided me with a diverse and stimulating environment that has fueled my passion for learning and personal growth. I am committed to quickly mastering new concepts in the field of technology and have recently developed a keen interest in Salesforce.
 
-📫 How to reach me: rsgomes1702@gmail.com
-⚡ Looking for first job
+- 📫 How to reach me: rsgomes1702@gmail.com
+- ⚡ Looking for first job
