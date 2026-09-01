@@ -1,24 +1,15 @@
-<!--
-## Hi there 👋
+Hi there 👋
 
+I'm Rodrigo Gomes, a Computer Engineer with a B.Sc. in Web Computing and a M.Sc. in Computer Engineering from the University of Beira Interior.
 
-**R0dr1g0G0mes/R0dr1g0G0mes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focused on Data Engineering, developing my skills in data processing, ETL, data analysis, data warehousing and modern data platforms.
 
-Here are some ideas to get you started:
+I have professional experience as a Junior Developer, working with enterprise applications and SAP technologies, including SAP UI5/Fiori, SAP BTP and BWZ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Currently
 
+I'm building projects focused on Data Engineering and continuously improving my knowledge of data platforms, processing and analytics.
 
-My name is Rodrigo Gomes, and I'm a 22-year-old student at the University of Beira Interior. I began my programming journey in 2020 while pursuing a degree in Web Informatics. Since then, I have continuously honed my skills in Python, HTML, CSS, SQL, and various other tools.
-
-The University of Beira Interior has provided me with a diverse and stimulating environment that has fueled my passion for learning and personal growth. I am committed to quickly mastering new concepts in the field of technology.
-
-- 📫 How to reach me: rsgomes1702@gmail.com
-- ⚡ Looking for first job  -->
+📫 Contact
+- Email: rsgomes1702@gmail.com
+- LinkedIn: Rodrigo Gomes
