@@ -17,7 +17,7 @@ I'm building projects focused on Data Engineering and continuously improving my 
 
 Data Engineering pipeline built on Azure Databricks and Azure Data Lake Storage (ADLS Gen2) using the Medallion Architecture. Ingests earthquake data from the USGS API (Bronze), cleans and transforms it using PySpark/Parquet (Silver), and enriches it with reverse geocoding and impact classification (Gold), all automated via Databricks Workflows.
 
-* **Tech Stack:** Azure Databricks, ADLS Gen2, PySpark, Python, Databricks Workflows, Medallion Architecture, Parquet API.
+* **Tech Stack:** Azure Databricks, ADLS Gen2, PySpark, Python, Databricks Workflows, Medallion Architecture, Parquet.
 
 ---
 
